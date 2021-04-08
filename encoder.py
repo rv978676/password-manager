@@ -1,0 +1,2 @@
+def encoder():
+    return "hello"
